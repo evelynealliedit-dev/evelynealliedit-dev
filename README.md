@@ -5,7 +5,7 @@ Uso tecnologia para melhorar a qualidade do atendimento, a gestão de KPIs e a e
 
 ## 🎯 Áreas de atuação
 - Gestão de Service Desk e qualidade de chamados
-- Governança de TI e análise de indicadores (SLA, backlog, ofensores)
+- Análise de indicadores de atendimento (SLA, backlog, ofensores)
 - Automação de processos e relatórios executivos
 
 ## 🔧 Projetos em destaque
