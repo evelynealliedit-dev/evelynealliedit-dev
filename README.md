@@ -9,7 +9,10 @@ Uso tecnologia para melhorar a qualidade do atendimento, a gestão de KPIs e a e
 - Automação de processos e relatórios executivos
 
 ## 🔧 Projetos em destaque
-- **[Portal de Preventivas](https://github.com/evelynealliedit-dev/preventivas-alliedit)** – checklist web para manutenção preventiva de lojas · [🌐 Ver online](https://evelynealliedit-dev.github.io/preventivas-alliedit/)
+- **Portal de Preventivas** – checklist web para manutenção preventiva de lojas
+
+<img src="preventivas-tela-inicial.jpg" alt="Tela inicial do Painel de Preventivas" width="700">
+
 - **Central de Manuais** – base de conhecimento em React integrada ao SharePoint (MSAL / Microsoft Graph)
 
 ## 🛠️ Stack
