@@ -1,4 +1,4 @@
-# Olá, eu sou a Evelyne 👋
+# Olá, eu sou a Eve 👋
 
 **Coordenadora de Service Desk** na **Allied IT**.
 Uso tecnologia para melhorar a qualidade do atendimento, a gestão de KPIs e a eficiência da operação de suporte.
