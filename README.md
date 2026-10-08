@@ -1,6 +1,6 @@
 # Olá, eu sou a Evelyne 👋
 
-**Coordenadora de Service Desk e Analista de Governança** na **Allied IT**.
+**Coordenadora de Service Desk** na **Allied IT**.
 Uso tecnologia para melhorar a qualidade do atendimento, a gestão de KPIs e a eficiência da operação de suporte.
 
 ## 🎯 Áreas de atuação
